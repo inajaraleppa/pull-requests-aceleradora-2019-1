@@ -1,2 +1,2 @@
-Nome:
-Idade:
+Nome: Aluno 1
+Idade: 18
